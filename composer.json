@@ -1,0 +1,22 @@
+{
+    "name": "fdiengdoh/blog-app",
+    "description": "A simple blog app",
+    "keywords": ["blog app", "php"],
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fdiengdoh\\BlogApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farlando Diengdoh",
+            "email": "blog-app@fdiengdoh.com",
+            "homepage": "http://fdiengdoh.com"
+        }
+    ]
+}
